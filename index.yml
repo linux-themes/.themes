@@ -1,1 +1,6 @@
-
+marble:
+  Name: Marble
+  Description: Marble themed shell.
+  Category: Theme
+  Desktop: Gnome
+  Icon: marble.svg
