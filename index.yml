@@ -4,3 +4,10 @@ marble:
   Category: Theme
   Desktop: Gnome
   Icon: marble.svg
+
+test:
+  Name: Test
+  Description: Test themed shell.
+  Category: Theme
+  Desktop: Gnome
+  Icon: test.svg
