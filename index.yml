@@ -1,13 +1,14 @@
-marble:
-  Name: Marble
-  Description: Marble themed shell.
-  Category: Theme
-  Desktop: Gnome
-  Icon: marble.svg
+Themes:
+  marble:
+    Name: Marble
+    Description: Marble themed shell.
+    Category: Theme
+    Desktop: Gnome
+    Icon: marble.svg
 
-test:
-  Name: Test
-  Description: Test themed shell.
-  Category: Theme
-  Desktop: Gnome
-  Icon: test.svg
+  test:
+    Name: Test
+    Description: Test themed shell.
+    Category: Theme
+    Desktop: Gnome
+    Icon: test.svg
