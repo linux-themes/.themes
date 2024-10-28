@@ -1,5 +1,5 @@
 Themes:
-  marble:
+  1:
     Name: Marble
     Description: Marble themed shell.
     Category: Theme
@@ -7,7 +7,7 @@ Themes:
     Icon: marble.svg
     Url: "https://github.com/linux-themes/.themes/blob/main/data/gnome/marble/Marble.tar.gz"
 
-  test:
+  2:
     Name: Test
     Description: Test themed shell.
     Category: Theme
